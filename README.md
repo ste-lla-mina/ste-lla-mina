@@ -2,11 +2,6 @@
 
 # ✦ NANCY STELLA ✦
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=✦+NANCY+STELLA+✦">
-  <img alt="Nancy Stella" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=100&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=✦+NANCY+STELLA+✦">
-</picture>
-
 > *crafting digital experiences, one line of code at a time*
 
 <div align="center">
@@ -24,7 +19,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=✨+Fullstack+Developer+✨;🎨+UI%2FUX+Designer+🎨;🤖+Robotics+Builder+🤖;💡+Creative+Problem+Solver+💡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=✨+Fullstack+Developer+✨;🎨+UI%2FUX+Designer+🎨;🤖+Robotics+Devotee+🤖)](https://git.io/typing-svg)
 
 </div>
 
