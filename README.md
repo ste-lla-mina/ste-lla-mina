@@ -1,13 +1,22 @@
 <div align="center">
 
-# Nancy Stella
+# ✦ NANCY STELLA ✦
 
-> Welcome to my digital workshop
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=100&color=FFFFFF&center=true&vCenter=true&width=500&height=60&lines=✦+NANCY+STELLA+✦">
+  <img alt="Nancy Stella" src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&duration=1&pause=100&color=6366F1&center=true&vCenter=true&width=500&height=60&lines=✦+NANCY+STELLA+✦">
+</picture>
 
-![Collabs](https://img.shields.io/badge/⚡_Open_to_collabs-6366f1?style=flat-square)
-![Design](https://img.shields.io/badge/🎨_Design--driven-94a3b8?style=flat-square)
-![Robotics](https://img.shields.io/badge/🤖_Robotics-14b8a6?style=flat-square)
-![Kigali](https://img.shields.io/badge/🌍_Kigali-22c55e?style=flat-square)
+> *crafting digital experiences, one line of code at a time*
+
+<div align="center">
+  
+[![Open to Collabs](https://img.shields.io/badge/🚀_Open_to_Collabs-6366f1?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/ste-lla-mina)
+[![Design Driven](https://img.shields.io/badge/🎨_Design_Driven-8b5cf6?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Robotics](https://img.shields.io/badge/🤖_Robotics_Enthusiast-06b6d4?style=for-the-badge&logo=arduino&logoColor=white)]()
+[![Kigali](https://img.shields.io/badge/📍_Kigali,_Rwanda-10b981?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+</div>
 
 </div>
 
@@ -15,7 +24,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Developer;UI%2FUX+Designer;Robotics+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=✨+Fullstack+Developer+✨;🎨+UI%2FUX+Designer+🎨;🤖+Robotics+Builder+🤖;💡+Creative+Problem+Solver+💡)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,10 +52,18 @@
 
 ---
 
+
 ## 📫 Connect
 
-[![GitHub](https://img.shields.io/badge/@ste--lla--mina-1e1e2e?style=flat-square&logo=github&logoColor=white)](https://github.com/ste-lla-mina)
+[![GitHub](https://img.shields.io/badge/@ste--lla--mina-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ste-lla-mina)
 
 ---
 
-<div align="center"><sub>⚙️ code · design · hardware</sub></div>
+<div align="center">
+  
+  <sub>
+    ⚙️ code · design · hardware ⚙️<br>
+    <i>building the future, one commit at a time</i>
+  </sub>
+  
+</div>
