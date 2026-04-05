@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Animated welcome text -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=10B981&center=true&vCenter=true&width=600&lines=git+config+--global+user.welcome+%22This+is%22" alt="git config welcome" />
 
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=44&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=700&height=80&lines=%E2%9A%A1+NANCY+STELLA+%E2%9A%A1" alt="Nancy Stella" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=44&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=700&height=80&lines=%E2%9A%A1+Stella+%E2%9A%A1" alt="Nancy Stella" />
 
-> *building infrastructure that thinks — from web kernels to embedded brains*
+> *Turning coffee into code and ideas into reality!*
 
 <br/>
 
@@ -20,12 +19,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=⚡+Systems+Architect+%7C+Embedded+Engineer+⚡;🎯+Fullstack+%2B+IoT+Specialist+🎯;🧠+Building+Intelligent+Infrastructure+🧠)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=⚡Fullstack+Developer⚡;🎯+Robotics+Devotee+🎯;🎨+Passionate+Designer+🎨)](https://git.io/typing-svg)
 
 </div>
-
-**Systems engineer & fullstack architect** specializing in convergent technologies — where backend logic meets physical computing. Currently architecting distributed systems, embedded robotics, and human-centric interfaces.
-
+I am a**full-stack developer and UI/UX designer** with a deep passion for **robotics engineering.** I bridge the gap between digital interfaces and physical hardware by crafting seamless user experiences and robust backends for autonomous systems. My work focuses on bringing complex ideas to life through clean code, intuitive design, and precise mechanical integration.
 ---
 
 ## 🧬 Technical Ecosystem
@@ -59,23 +56,3 @@
 </div>
 
 ---
-
-## 🤝 Let's Build Something Legendary
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/ GitHub-@ste--lla--mina-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=06B6D4)](https://github.com/ste-lla-mina)
-[![LinkedIn](https://img.shields.io/badge/ LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0A66C2)](https://www.linkedin.com/feed/)
-
-</div>
-
----
-
-<div align="center">
-
-```bash
-$ npx nancy-stella --skills
-█▓▒░ fullstack architecture ░▒▓█
-█▓▒░ embedded systems ░▒▓█  
-█▓▒░ UI/UX engineering ░▒▓█
-█▓▒░ robotics & automation ░▒▓█
