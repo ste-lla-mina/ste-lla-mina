@@ -1,22 +1,19 @@
 <div align="center">
 
-# Welcome to my digital workshop
+# Nancy Stella
 
-### Nancy Stella
-**Fullstack Dev · Designer · Robotics Enthusiast**
+> Welcome to my digital workshop
 
-![Collabs](https://img.shields.io/badge/⚡_Open_to_collabs-8b5cf6?style=flat-square)
+![Collabs](https://img.shields.io/badge/⚡_Open_to_collabs-6366f1?style=flat-square)
 ![Design](https://img.shields.io/badge/🎨_Design--driven-94a3b8?style=flat-square)
-![Robotics](https://img.shields.io/badge/🤖_Robotics-3b82f6?style=flat-square)
+![Robotics](https://img.shields.io/badge/🤖_Robotics-14b8a6?style=flat-square)
 ![Kigali](https://img.shields.io/badge/🌍_Kigali-22c55e?style=flat-square)
 
 </div>
 
 ---
 
-## About
-
-**Fullstack developer & designer** passionate about building beautiful web experiences and **robotics systems**. I bridge software interfaces with embedded hardware — from Next.js apps to Arduino-powered machines.
+**Fullstack dev & designer** passionate about web experiences and **robotics**. Bridging software with embedded hardware — from Next.js apps to Arduino machines.
 
 ---
 
@@ -34,17 +31,24 @@
 
 ---
 
-## 🔭 Currently
+## 🔭 Currently Building
 
-- Fullstack apps — Next.js & PostgreSQL
-- Expressive, accessible UI systems
-- Robotics prototypes with Arduino & C++
+- **Next.js & PostgreSQL** fullstack apps
+- **Accessible UI** design systems
+- **Arduino & C++** robotics prototypes
+
+---
+
+## 📊 GitHub Stats
+
+![Nancy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ste-lla-mina&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ste-lla-mina&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📫 Connect
 
-[@ste-lla-mina](https://github.com/ste-lla-mina)
+[![GitHub](https://img.shields.io/badge/@ste--lla--mina-1e1e2e?style=flat-square&logo=github&logoColor=white)](https://github.com/ste-lla-mina)
 
 ---
 
