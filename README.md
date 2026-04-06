@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=sudo+init+stella.sys;>+Loading+Creative+Logic...;" alt="Terminal Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=sudo+init+stella.sys;>+Loading+Optmized+Dominance...;" alt="Terminal Header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=500&height=100&lines=STELLA" alt="Stella" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=500&height=100&lines=stella" alt="Stella" />
+<br/>
 <p align="center">
   <kbd>Full-Stack Developer</kbd> • <kbd>UI/UX Designer</kbd> • <kbd>Robotics Devotee</kbd>
 </p>
@@ -29,17 +29,17 @@ I specialize in building **high-performance web ecosystems** and **embedded robo
 
 ## 🧬 Tech Stacks.
 
-### 💻 Frontend & Creative Logic
+### 💻 Frontend & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,html,css,sass,vite" />
 </p>
 
-### 🔋 Backend & Cloud Architecture
+### 🔋 Backend & Database
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,py,nodejs,express,mysql,mongodb,postman" />
 </p>
 
-### 🤖 Hardware, Systems & Design
+### 🤖 Hardware & Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,arduino,linux,figma,git,github,vscode" />
 </p>
