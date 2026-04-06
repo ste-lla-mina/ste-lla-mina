@@ -31,7 +31,7 @@ I specialize in building **high-performance web ecosystems** and **embedded robo
 
 ### 💻 Frontend & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,html,css,sass,vite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,vite" />
 </p>
 
 ### 🔋 Backend & Database
