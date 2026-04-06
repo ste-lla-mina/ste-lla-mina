@@ -17,42 +17,40 @@
 
 ---
 
-<div align="center">
+### ⚡ Quick Byte
+I'm a **Full-Stack Developer & UI/UX Designer** specializing in the intersection of digital interfaces and physical hardware. From sleek web apps to autonomous robotics, I build robust systems with a focus on precision and human-centric design.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=⚡Fullstack+Developer⚡;🎯+Robotics+Devotee+🎯;🎨+Passionate+Designer+🎨)](https://git.io/typing-svg)
-
-</div>
-I am a**full-stack developer and UI/UX designer** with a deep passion for **robotics engineering.** I bridge the gap between digital interfaces and physical hardware by crafting seamless user experiences and robust backends for autonomous systems. My work focuses on bringing complex ideas to life through clean code, intuitive design, and precise mechanical integration.
 ---
 
-## 🧬 Technical Ecosystem
+## 🧬 Tech Stacks.
+
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,php,react,nextjs,html,css" />
+</p>
+
+### 🔋 Backend & Hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,arduino,raspberrypi" />
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva,git,github,vscode" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+I'm always open to discussing **robotics projects, UI design, or full-stack collaborations.** Pick your favorite platform:
 
 <div align="center">
 
-### 🎯 **Core Languages & Frameworks**
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> |
-|---|---|---|---|---|---|
-| **PHP** | **C** | **C++** | **Python** | **JavaScript** | **TypeScript** |
-
-### 🗄️ **Databases & Storage**
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | 
-|---|---|
-| **MySQL** | **MongoDB** | 
-
-### 🎨 **Frontend & Design**
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50"/> |
-|---|---|---|---|---|---|
-| **HTML5** | **CSS3** | **React** | **Next.js** | **Figma** | **Canva** |
-
-### 🤖 **Hardware & Embedded**
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/> |
-|---|
-| **Arduino** |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nancy-mizero-0851223a7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ste-lla-mina)
 
 </div>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ste-lla-mina&show_icons=true&theme=tokyonight" alt="Stella's GitHub Stats" />
+</p>
