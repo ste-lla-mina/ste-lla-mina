@@ -1,61 +1,53 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=sudo+apt-get+install+stella-portfolio;Executing+creative+logic...;Status:+Ready+to+Build+🚀" alt="Terminal Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=sudo+init+stella.sys;>+Loading+Creative+Logic...;" alt="Terminal Header" />
 
 <br/>
 
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Hi, This is Stella <img src="https://media.giphy.com/media/hvRJCLzPrTCf6/giphy.gif" width="30px"></h1>
-      <h3>Turning coffee into <b>Code</b> and ideas into <b>Reality.</b></h3>
-      <a href="https://github.com/ste-lla-mina">
-        <img src="https://img.shields.io/badge/Open%20to%20Collabs-06B6D4?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Design%20Driven-8B5CF6?style=for-the-badge&logo=figma&logoColor=white" />
-      </a>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=300&height=200&lines=%E2%9A%A1;STE;LLA;%E2%9A%A1" alt="Stella Name" />
-    </td>
-  </tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=500&height=100&lines=STELLA" alt="Stella" />
+
+<p align="center">
+  <kbd>Full-Stack Developer</kbd> • <kbd>UI/UX Designer</kbd> • <kbd>Robotics Devotee</kbd>
+</p>
+
+> **"Turning coffee into code and ideas into reality."**
+
+<br/>
+
+[![Open to Collabs](https://img.shields.io/badge/🚀_Collabs-Open-06B6D4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/ste-lla-mina)
+[![Design Driven](https://img.shields.io/badge/🎨_Design-Driven-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Robotics](https://img.shields.io/badge/🤖_Robotics-Dev-10B981?style=for-the-badge&logo=arduino&logoColor=white)]()
 
 </div>
 
 ---
 
-### ⚡ Quick Byte
-I'm a **Full-Stack Developer & UI/UX Designer** specializing in the intersection of digital interfaces and physical hardware. From sleek web apps to autonomous robotics, I build robust systems with a focus on precision and human-centric design.
+### ⚡ The Mission
+I specialize in building **high-performance web ecosystems** and **embedded robotic systems**. My work focuses on creating seamless user experiences that control complex hardware, ensuring that every line of code serves a purpose—whether it's on a screen or a circuit board.
 
 ---
 
 ## 🧬 Tech Stacks.
 
-### 💻 Languages & Frameworks
-
+### 💻 Frontend & Creative Logic
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,c,php,react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,html,css,sass,vite" />
 </p>
 
-### 🔋 Backend & Hardware
-
+### 🔋 Backend & Cloud Architecture
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,arduino" />
+  <img src="https://skillicons.dev/icons?i=php,py,nodejs,express,mysql,mongodb,postman" />
 </p>
 
-### 🎨 Design & Tools
-
+### 🤖 Hardware, Systems & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,canva,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,linux,figma,git,github,vscode" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
-
-Let's build something incredible together!
+*Ready to build something together.*
 
 <div align="center">
 
