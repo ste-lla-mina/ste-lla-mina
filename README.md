@@ -6,19 +6,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=500&height=100&lines=stella" alt="Stella" />
 <br/>
-<p align="center">
-  <kbd>Full-Stack Developer</kbd> • <kbd>UI/UX Designer</kbd> • <kbd>Robotics Devotee</kbd>
-</p>
-
-`~/workshop $ Welcome to my digital workshop`
 
 > **"Turning coffee into code and ideas into reality."**
 
 <br/>
-
-[![Open to Collabs](https://img.shields.io/badge/🚀_Collabs-Open-06B6D4?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/ste-lla-mina)
-[![Design Driven](https://img.shields.io/badge/🎨_Design-Driven-8B5CF6?style=for-the-badge&logo=figma&logoColor=white)]()
-[![Robotics](https://img.shields.io/badge/🤖_Robotics-Dev-10B981?style=for-the-badge&logo=arduino&logoColor=white)]()
 
 </div>
 
