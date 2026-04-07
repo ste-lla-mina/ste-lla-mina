@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=35063e&center=true&vCenter=true&width=600&lines=sudo+init+stella.sys;>+Loading+Optmized+Dominance...;" alt="Terminal Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=ff7034&center=true&vCenter=true&width=600&lines=sudo+init+stella.sys;>+Loading+Optmized+Dominance...;" alt="Terminal Header" />
 
 <br/>
 
@@ -18,11 +18,14 @@
 
 ### 👩‍💻 Who I am !
 
+
+```javascript
 const stella = {
   code: ["Javascript", "TypeScript", "Python","C", "C++", "PHP", "HTML", "CSS"],
   tools: ["React", "Next.js", "Node", "Express", "Arduino"],
   currentFocus: ["Frontend", "Backend", "UI/UX Design" , "Robotics"]
 };
+```
 
 ---
 <div align="center">
