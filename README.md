@@ -24,7 +24,7 @@
 
 ---
 
-**Fullstack dev & designer** passionate about web experiences and **robotics**. Bridging software with embedded hardware — from Next.js apps to Arduino machines.
+**Fullstack dev & designer** passionate about web experiences and **robotics**. Bridging software with embedded hardware — from web apps to Arduino machines.
 
 ---
 
