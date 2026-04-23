@@ -39,7 +39,7 @@ const stella = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 
 ### Design 
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skills-icons.vercel.app/icons?i=figma,canva,framer" />
 
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,postman" />
