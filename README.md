@@ -42,7 +42,7 @@ const stella = {
 <img src="https://skillicons.dev/icons?i=figma,canva,framer" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,postman,pycharm" />
 
 <br />
 
