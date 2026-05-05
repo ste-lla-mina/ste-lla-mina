@@ -36,10 +36,10 @@ const stella = {
 <img src="https://skillicons.dev/icons?i=html,css,c,cpp,py,js,ts,php,mysql,tailwind" />
 
 ### Frameworks and DB
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongoDB" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 
 ### Design 
-<img src="https://skillicons.dev/icons?i=figma,canva,framer" />
+<img src="https://skillicons.dev/icons?i=figma" />
 
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,postman,pycharm" />
