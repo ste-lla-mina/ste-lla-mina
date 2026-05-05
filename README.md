@@ -35,8 +35,11 @@ const stella = {
 ### Languages
 <img src="https://skillicons.dev/icons?i=html,css,c,cpp,py,js,ts,php,mysql,tailwind" />
 
-### Frameworks and DB
+### Frameworks 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+
+### DB
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### Design 
 <img src="https://skillicons.dev/icons?i=figma" />
