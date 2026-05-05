@@ -33,7 +33,7 @@ const stella = {
 ## 🛠️ Tech  Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,py,js,ts,php,mysql,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,py,js,ts,php,tailwind" />
 
 ### Frameworks 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
