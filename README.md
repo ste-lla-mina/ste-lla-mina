@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=500&height=100&lines=stella" alt="Stella" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=50&duration=2000&pause=100&color=06B6D4&center=true&vCenter=true&width=500&height=100&lines=Stella Nancy MIZERO" alt="Stella" />
 
 <br/>
 
