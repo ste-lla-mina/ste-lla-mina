@@ -1,4 +1,4 @@
-<div align="center">
+c<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=ff7034&center=true&vCenter=true&width=600&lines=sudo+init+stella+nancy.sys;>+Loading+Optmized+Dominance...;" alt="Terminal Header" />
 
@@ -56,7 +56,7 @@ const stella = {
 <br />
 
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ste-lla-mina)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nancy-stella)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nancy-mizero-0851223a7/)
 
 <br />
 
