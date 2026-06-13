@@ -42,7 +42,7 @@ const stella = {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 ### Design 
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,framer,canva" />
 
 ### Tools & Environment
 <img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,postman,pycharm" />
